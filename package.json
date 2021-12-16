@@ -56,6 +56,6 @@
     "sinon": "^11.1.2",
     "typescript": "^4.4.4",
     "wait-on": "^6.0.0",
-    "webdav-server": "^2.6.2"
+    "webdav-server": "https://github.com/Smithsonian/npm-WebDAV-Server.git"
   }
 }
