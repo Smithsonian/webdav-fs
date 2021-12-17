@@ -657,9 +657,9 @@ directory-exists@^2.0.1:
   integrity sha512-+CEod3IzwjvhQOMXFSU6nrqdTwrhzOiacNzzXlwBVFm7C4y2rbuEWs5WaRsI/3IZeSWORA5F1q8FBh3gm4HSsw==
 
 electron-to-chromium@^1.4.17:
-  version "1.4.20"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.20.tgz#8fbf9677ccac19b4249c0a6204e0943d9d66ce30"
-  integrity sha512-N7ZVNrdzX8NE90OXEFBMsBf3fp8P/vVDUER3WCUZjzC7OkNTXHVoF6W9qVhq8+dA8tGnbDajzUpj2ISNVVyj+Q==
+  version "1.4.22"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.22.tgz#57b7deee38b812e8b5f8f530709cfdb62a8e0bcc"
+  integrity sha512-IiW8cV8eyjMhuWqk9wwHRPOVN+5Fa7NHOTjogrwg2H9TNiLVA8ywjOJnVKoywaqUHryDUOpK7Mg6P1FETisi0g==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1774,8 +1774,8 @@ wait-on@^6.0.0:
     rxjs "^7.1.0"
 
 "webdav-server@https://github.com/Smithsonian/npm-WebDAV-Server.git":
-  version "2.6.2"
-  resolved "https://github.com/Smithsonian/npm-WebDAV-Server.git#14d1458f3f4ff93a7bf406ac8d5a5ede6f4a1136"
+  version "2.7.0"
+  resolved "https://github.com/Smithsonian/npm-WebDAV-Server.git#dd47642c2dcdce8d0b8738e3a86440b497e6ff38"
   dependencies:
     mime-types "^2.1.34"
     tmp-promise "^3.0.3"
